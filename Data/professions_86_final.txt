@@ -1,0 +1,86 @@
+advocate  
+agriculturist  
+aircraft pilot 
+artist  
+astronomer  
+attorney  
+audiologist  
+banker  
+barber  
+bartender  
+biologist  
+bookkeeper  
+botanist  
+builder  
+businessperson  
+butcher  
+carpenter  
+cashier  
+chef  
+chemist  
+clergy advisor 
+clinical lab technician
+coach  
+developer  
+dietitian  
+ecologist  
+editor  
+electrician  
+EMT specialist 
+farmer  
+filmmaker  
+firefighter  
+fisherman  
+flight attendant 
+geneticist  
+geologist  
+graphic designer 
+human resource specialist
+immunologist  
+interpreters  
+jeweller  
+lawyer  
+librarian  
+licensed practical nurse
+mechanic  
+medical laboratory scientist
+meteorologist  
+midwife  
+military officer 
+nutritionist  
+oceanographer  
+osteopath  
+painter  
+paramedic  
+pathologist  
+pharmacologist  
+philosopher  
+photographer  
+physician assistant 
+physicist  
+pilot  
+plumber  
+politician  
+receptionist  
+registered nurse 
+salesman  
+salesperson  
+scientist  
+sea captain 
+secretary  
+singer  
+solicitor  
+speech pathologist 
+speech-language pathologist 
+statistician  
+surveyor  
+therapist  
+undertaker  
+urban planner 
+videographer  
+virologist  
+visual artist 
+waiter  
+web designer 
+web developer 
+zoologist
